@@ -1,4 +1,4 @@
-[![cinuo](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![cinuo](https://img.shields.io/badge/cinuo-github-blue?logo=github)](https://github.com/cinuo)
 
 #### Name
 Guojie Liu
